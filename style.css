@@ -1,0 +1,44 @@
+@charset "utf-8";
+/* CSS Document */
+
+.container {
+	border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+	width: 300px;
+	margin: 50px auto;
+}
+
+h1 {
+	font-size: 25px;
+	text-align: center;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	color: #4CAF50;
+}
+
+input {
+	width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+button {
+	width: 100%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+	display: inline-block;
+	font-size: 20px;
+}
+
+button:hover {
+	background-color: #45a049;
+}

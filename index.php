@@ -15,12 +15,9 @@
 		<br>
 		<button type="submit" name="operator" value="add">+
 		</button>
-		<button type="submit" name="operator" value="sub">-
-		</button>
-		<button type="submit" name="operator" value="mul">×
-		</button>
-		<button type="submit" name="operator" value="div">÷
-		</button>
+		<button type="submit" name="operator" value="sub">-</button>
+		<button type="submit" name="operator" value="mul">×</button>
+		<button type="submit" name="operator" value="div">÷</button>
 	</form>
 	
 	<?php
